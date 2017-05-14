@@ -1,0 +1,216 @@
+/*
+* ----------------------------------------------------------------------------------------
+Author       : onepageboss
+Template Name: Naila - One Page MultiPurpose Template
+Version      : 1.0                                          
+* ----------------------------------------------------------------------------------------
+*/
+
+
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1280px) {}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 767px) and (max-width: 991px) {
+    .mainmenu .navbar-nav li a {
+        padding: 20px 3px;
+        font-size: 14px;
+    }
+    .mainmenu .navbar-nav li a {
+        padding: 20px 3px;
+        font-size: 14px;
+    }
+    .logo {
+        text-align: center;
+    }
+    .single-blog img {
+        width: 100%;
+    }
+    .pricing-box {
+        margin-top: 30px;
+    }
+    .project-idea h2,
+    .project-idea p {
+        font-size: 22px;
+    }
+    .single-project-complete {
+        margin-top: 30px;
+    }
+    .about-text {
+        margin-top: 50px;
+    }
+    .section-title p {
+        padding: 0;
+    }
+
+    .contact-icon {
+        float: none;
+    }
+    .header-text p,
+    .single-testi-des {
+        padding: 0;
+    }
+    .call-to-action-small-button {
+        text-align: left;
+        margin-top: 25px;
+    }
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+    .navbar-toggle .icon-bar {
+        background: #fff;
+    }
+    .menu-bg .navbar-toggle .icon-bar {
+        background: #fff;
+    }
+    .navbar-toggle {
+        margin-right: 0px;
+        margin-top: -30px;
+    }
+    .navbar {
+        min-height: 0px;
+    }
+    .mainmenu .navbar-nav li a {
+        padding: 11px 15px;
+    }
+    .menu-bg .mainmenu .navbar-nav li a {
+        padding: 11px 15px;
+    }
+    .navbar-fixed-bottom .navbar-collapse,
+    .navbar-fixed-top .navbar-collapse {
+        max-height: 420px;
+    }
+    .navbar-toggle {
+        margin-top: -44px;
+    }
+    .navbar-collapse {
+        background: #000;
+    }
+    .menu-bg .navbar-collapse {
+        background: #000;
+    }
+    .menu-bg .mainmenu .navbar-nav li a {
+        color: #fff;
+    }
+    .menu-bg .mainmenu .navbar-nav li a:hover {
+        color: #ccc;
+    }
+    .mainmenu .navbar-nav li a:hover {
+        color: #ccc;
+    }
+    .menu-bg .navbar-collapse {}
+    .welcome-image-area,
+    .welcome-video-area {
+        padding-top: 120px;
+    }
+    .welcome-image-area h2,
+    .single-slide-item h2,
+    .welcome-video-area h2,
+    .about-text h2,
+    .call-to-area-text h2 {
+        font-size: 24px;
+    }
+    .slider-control {
+        display: none;
+    }
+    a.slide-btn {
+        font-size: 12px;
+        padding: 10px;
+        margin-bottom: 5px;
+    }
+    .section-title h2 {
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+    .footer-social-link {
+        text-align: left;
+        margin-top: 20px;
+    }
+    .pricing-box {
+        margin-top: 30px;
+    }
+    .single-testimonial {
+        padding: 0;
+    }
+    .video-area-text {
+        margin-top: 50px;
+    }
+    .footer-social-link {
+        text-align: center;
+    }
+    .footer-area img {
+        margin-bottom: 0px;
+    }
+    .scrollup {
+        height: 40px;
+        width: 40px;
+        line-height: 35px;
+    }
+    .single-project-complete {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .header-text {
+        margin-top: 10px;
+    }
+    .footer-text h6 {
+        font-size: 12px;
+    }
+    .footer-area {
+        padding: 50px 0px;
+    }
+    .section-padding {
+        padding: 40px 0px;
+    }
+    .single-testimonial {
+        margin-right: 30px;
+        margin-left: 30px;
+    }
+    .about-text {
+        margin-top: 30px;
+    }
+    .margin-top-c {
+        margin-top: 0px;
+    }
+    .section-title p {
+        padding: 0;
+    }
+    .section-title h2::before {
+        top: 40px;
+    }
+    .single-contact-details {
+        margin-bottom: 30px;
+    }
+    .item .grid figure,
+    .gallery .grid figure {
+        min-width: 100%;
+    }
+    .header-text p,
+    .single-testi-des {
+        padding: 0;
+    }
+    .call-to-action-small-button {
+        text-align: left;
+        margin-top: 25px;
+    }
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+
+/*
+* ----------------------------------------------------------------------------------------
+Author       : onepageboss
+Template Name: Naila - One Page MultiPurpose Template
+Version      : 1.0                                          
+* ----------------------------------------------------------------------------------------
+*/
