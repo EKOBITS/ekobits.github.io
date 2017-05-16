@@ -498,17 +498,21 @@ a.slide-btn.other-btn:hover {
 }
 
 .slide-1 {
-    background: url(../images/bg/call.jpg) scroll 0 0;
+    background: url(../images/bg/ssimg.jpg) scroll 0 0;
     background-size: cover;
 }
 
 .slide-2 {
-    background: url(../images/bg/mainbg.jpg) scroll 0 0;
+    background: url(../images/bg/codecc.jpg) scroll 0 0;
     background-size: cover;
 }
 
 .slide-3 {
-    background: url(../images/bg/testi-bg.jpg) scroll 0 0;
+    background: url(../images/bg/bst.jpg) scroll 0 0;
+    background-size: cover;
+}
+.slide-4 {
+    background: url(../images/bg/gal.jpg) scroll 0 0;
     background-size: cover;
 }
 
@@ -882,7 +886,6 @@ a.slide-btn.other-btn:hover {
 
 .video-area {
     padding: 150px 0px;
-    background: url(../images/bg/mainbg.jpg);
     position: relative;
     background-size: cover;
     z-index: 1;
