@@ -1,8 +1,5 @@
 /*
-* ----------------------------------------------------------------------------------------
-Author       : onepageboss
-Template Name: Naila - One Page MultiPurpose Template
-Version      : 1.0                                          
+* ----------------------------------------------------------------------------------------                                     
 * ----------------------------------------------------------------------------------------
 */
 
@@ -38,6 +35,14 @@ Version      : 1.0
 * 01.GLOBAL STYLE
 * ----------------------------------------------------------------------------------------
 */
+.li-nav{
+
+}
+
+.typed-text{
+    font-size: 14px;
+    font-weight: lighter;
+}
 
 body {
     font-size: 14px;
@@ -343,12 +348,13 @@ a.read-more:hover {
     z-index: 999;
     -webkit-transition: all 0.4s ease-out;
     transition: all 0.4s ease-out;
+    background: #009933;
 }
 
 .logo {
-    padding-top: 30px;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
+    z-index: 1;
 }
 
 .logo a p {
@@ -398,7 +404,7 @@ a.read-more:hover {
     transition: all 0.3s ease-out;
     background: #fff;
     box-shadow: 0 2px 10px -1px rgba(87, 97, 100, 0.35);
-    background: #000;
+    background: #009933;
     border: none;
 }
 

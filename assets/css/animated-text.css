@@ -3,6 +3,7 @@
   display: inline-block;
   position: relative;
   text-align: left;
+  font-weight: lighter;
 }
 .cd-words-wrapper b {
   display: inline-block;

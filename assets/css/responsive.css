@@ -1,8 +1,5 @@
 /*
-* ----------------------------------------------------------------------------------------
-Author       : onepageboss
-Template Name: Naila - One Page MultiPurpose Template
-Version      : 1.0                                          
+* ----------------------------------------------------------------------------------------                     
 * ----------------------------------------------------------------------------------------
 */
 
@@ -15,6 +12,11 @@ Version      : 1.0
 /* Tablet Layout: 768px. */
 
 @media only screen and (min-width: 767px) and (max-width: 991px) {
+
+    .cd-words-wrapper .typed-text{
+        font-size: 12px;
+        font-weight: lighter;
+    }
     .mainmenu .navbar-nav li a {
         padding: 20px 3px;
         font-size: 14px;
@@ -63,6 +65,11 @@ Version      : 1.0
 /* Mobile Layout: 320px. */
 
 @media only screen and (max-width: 767px) {
+
+    .cd-words-wrapper .typed-text{
+        font-size: 10px;
+        font-weight: lighter;
+    }
     .navbar-toggle .icon-bar {
         background: #fff;
     }
@@ -90,10 +97,10 @@ Version      : 1.0
         margin-top: -44px;
     }
     .navbar-collapse {
-        background: #000;
+        background: #009933;
     }
     .menu-bg .navbar-collapse {
-        background: #000;
+        background: #009933;
     }
     .menu-bg .mainmenu .navbar-nav li a {
         color: #fff;
