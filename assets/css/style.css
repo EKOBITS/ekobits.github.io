@@ -337,7 +337,7 @@ a.read-more:hover {
     position: relative;
     width: 100%;
     height: 50%;
-    background: url(../images/bg/vtgal.jpg);
+    background: url(../images/bg/vtgal.JPG);
     background-size: cover;
     z-index: 1;
 
@@ -549,22 +549,22 @@ a.slide-btn.other-btn:hover {
 }
 
 .slide-1 {
-    background: url(../images/bg/ssimg.jpg) scroll 0 0;
+    background: url(../images/bg/ssimg.JPG) scroll 0 0;
     background-size: cover;
     opacity: 0.6;
 }
 
 .slide-2 {
-    background: url(../images/bg/codecc.jpg) scroll 0 0;
+    background: url(../images/bg/codecc.JPG) scroll 0 0;
     background-size: cover;
 }
 
 .slide-3 {
-    background: url(../images/bg/bst.jpg) scroll 0 0;
+    background: url(../images/bg/bst.JPG) scroll 0 0;
     background-size: cover;
 }
 .slide-4 {
-    background: url(../images/bg/gal.jpg) scroll 0 0;
+    background: url(../images/bg/gal.JPG) scroll 0 0;
     background-size: cover;
 }
 
