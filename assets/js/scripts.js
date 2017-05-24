@@ -19,7 +19,7 @@
             var preloader = jQuery('.spinner');
             var preloaderArea = jQuery('.preloader-area');
             preloader.fadeOut();
-            preloaderArea.delay(350).fadeOut('slow');
+            preloaderArea.delay(150).fadeOut('slow');
         });
 
 
