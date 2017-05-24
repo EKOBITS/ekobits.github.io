@@ -3,6 +3,17 @@
 * ----------------------------------------------------------------------------------------
 */
 
+/* Mobile Typed Text */
+@media screen and (max-width: 480px) and (min-width: 280px){
+    .cd-words-wrapper b {
+        display: inline-block;
+        position: absolute;
+        white-space: nowrap;
+        left: 0;
+        top: 0;
+        font-size: 14px;
+    }
+}
 
 /* Medium Layout: 1280px. */
 
