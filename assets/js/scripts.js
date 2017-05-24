@@ -14,13 +14,7 @@
          *  PRELOADER JS
          * ----------------------------------------------------------------------------------------
          */
-        var prealoaderOption = $(window);
-        prealoaderOption.on("load", function () {
-            var preloader = jQuery('.spinner');
-            var preloaderArea = jQuery('.preloader-area');
-            preloader.fadeOut();
-            preloaderArea.delay(150).fadeOut('slow');
-        });
+        
 
 
 
