@@ -1,6 +1,5 @@
 
 .cd-words-wrapper {
-  display: inline-block;
   position: relative;
   text-align: left;
   font-weight: lighter;
@@ -11,6 +10,7 @@
   white-space: nowrap;
   left: 0;
   top: 0;
+  font-size: 40px;
 }
 .cd-words-wrapper b.is-visible {
   position: relative;
@@ -208,6 +208,7 @@ xtype
   position: absolute;
   right: 0;
   top: 50%;
+  left: 50%;
   bottom: auto;
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
