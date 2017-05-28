@@ -817,9 +817,9 @@ a.slide-btn.other-btn:hover {
 */
 
 .call-to-area {
-    background: url(../images/bg/call.jpg);
+    background:  ;
     background-size: cover;
-    padding: 200px 0px;
+    padding: 100px 0px;
     position: relative;
     z-index: 1;
 }
