@@ -36,6 +36,17 @@
 * 01.GLOBAL STYLE
 * ----------------------------------------------------------------------------------------
 */
+/*
+* Bits Schools Styles footer
+*/
+.img-bits{
+    max-width: 400px;
+    max-height: 150px;
+}
+
+.gal-pf{
+    margin: 0px;
+}
 
 /* sticky sidebar menu for social profiles */
 
