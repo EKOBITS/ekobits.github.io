@@ -40,8 +40,8 @@
 * Bits Schools Styles footer
 */
 .img-bits{
-    max-width: 400px;
-    max-height: 150px;
+    max-width: 140px;
+    max-height: 140px;
 }
 
 .gal-pf{
@@ -828,7 +828,7 @@ a.slide-btn.other-btn:hover {
 */
 
 .call-to-area {
-    background:  ;
+    background:  url(../images/bg/mc.jpg);
     background-size: cover;
     padding: 100px 0px;
     position: relative;
